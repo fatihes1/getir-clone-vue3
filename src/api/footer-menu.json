@@ -4,27 +4,27 @@
       "title" : "Getir'i Keşfedin",
       "items" : [
         {
-          "title" : "Hakkımızda",
+          "subTitle" : "Hakkımızda",
           "url" : "https://getir.com/hakkimizda/"
         },
         {
-          "title" : "Kariyer",
+          "subTitle" : "Kariyer",
           "url" : "https://apply.workable.com/getir/"
         },
         {
-          "title" : "Teknoloji Kariyerleri",
+          "subTitle" : "Teknoloji Kariyerleri",
           "url" : "https://technology.getir.com/"
         },
         {
-          "title" : "İletişim",
+          "subTitle" : "İletişim",
           "url" : "https://getir.com/hakkimizda/iletisim/"
         },
         {
-          "title" : "COVID-19 Duyuru",
+          "subTitle" : "COVID-19 Duyuru",
           "url" : "https://getir.com/duyuru/"
         },
         {
-          "title" : "Sosyal Sorumluluk Projeleri",
+          "subTitle" : "Sosyal Sorumluluk Projeleri",
           "url" : "https://getir.com/sosyal-sorumluluk-projeleri/"
         }
       ]
@@ -34,23 +34,23 @@
       "title" : "Yardıma mı ihtiyacınız var?",
       "items" : [
         {
-          "title" : "Sıkça Sorulan Sorular",
+          "subTitle" : "Sıkça Sorulan Sorular",
           "url" : "https://getir.com/yardim/sss/"
         },
         {
-          "title" : "Kişisel Verilerin Korunması",
+          "subTitle" : "Kişisel Verilerin Korunması",
           "url" : "https://getir.com/yardim/kvkk/"
         },
         {
-          "title" : "Gizlilik Politikası",
+          "subTitle" : "Gizlilik Politikası",
           "url" : "https://getir.com/yardim/gizlilik-politikasi/"
         },
         {
-          "title" : "Kullanım Koşulları",
+          "subTitle" : "Kullanım Koşulları",
           "url" : "https://getir.com/yardim/kullanim-kosullari/"
         },
         {
-          "title" : "Çerez Politikası",
+          "subTitle" : "Çerez Politikası",
           "url" : "https://getir.com/yardim/cerez-politikasi/"
         }
       ]
@@ -60,19 +60,19 @@
       "title" : "İş Ortağımız Olun",
       "items" : [
         {
-          "title" : "Bayimiz Olun",
+          "subTitle" : "Bayimiz Olun",
           "url" : "https://bayi-basvuru.getir.com/"
         },
         {
-          "title" : "Deponuzu Kiralayın",
+          "subTitle" : "Deponuzu Kiralayın",
           "url" : "https://depodukkan.getir.com/"
         },
         {
-          "title" : "GetirYemek Restoranı Olun",
+          "subTitle" : "GetirYemek Restoranı Olun",
           "url" : "https://basvuru.getir.com/restoran/"
         },
         {
-          "title" : "GetirÇarşı İşletmesi Olun",
+          "subTitle" : "GetirÇarşı İşletmesi Olun",
           "url" : "https://panel.getircarsi.com/form/pre-application"
         }
       ]
