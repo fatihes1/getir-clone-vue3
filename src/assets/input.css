@@ -4,6 +4,14 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer components {
+    .nav-link {
+        @apply flex items-center justify-center hover:bg-primary-brand-color h-11 mt-2 rounded-t-lg;
+    },
+    .nav-link.active  {
+        @apply bg-red-700;
+    }
+}
 
 @layer base {
     html, body {

@@ -22,7 +22,7 @@ module.exports = {
   },
   variants : {
     extend : {
-      color: ['before']
+      color: ['before', 'active'],
     },
   },
   plugins: [],

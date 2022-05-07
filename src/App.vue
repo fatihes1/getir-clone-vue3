@@ -22,6 +22,7 @@ import Favorites from './components/Favorites.vue';
 import MobileApp from './components/MobileApp.vue';
 import Cards from './components/Cards.vue';
 import Footer from './components/Footer.vue';
+
 export default {
   components : {
     Header,
@@ -31,7 +32,7 @@ export default {
     Favorites,
     MobileApp,
     Cards,
-    Footer
+    Footer,
   }
 
 }
