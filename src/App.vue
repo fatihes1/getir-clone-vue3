@@ -1,9 +1,10 @@
 <template>
   <main>
     <Header />
+    <Campaigns v-if="windowWidth <= 768" />
     <HeroSection />
     <Categories />
-    <Campaigns />
+    <Campaigns v-if="windowWidth > 768" />
     <Favorites />
     <MobileApp />
     <Cards />
@@ -13,6 +14,7 @@
 </template>
 
 <script>
+import 'vue3-carousel/dist/carousel.css';
 // import Header from '@/components/Header';
 import Header from './components/Header.vue';
 import HeroSection from './components/HeroSection.vue';
@@ -33,6 +35,30 @@ export default {
     MobileApp,
     Cards,
     Footer,
+  },
+  data () {
+    return {
+      windowWidth: window.innerWidth
+    }
+  },
+  watch: {
+    windowWidth(newWidth, oldWidth) {
+      // console.log('New width : ' + newWidth)
+    }
+  },
+  mounted() {
+    this.$nextTick(() => {
+      window.addEventListener('resize', this.onResize);
+    })
+  },
+  beforeDestroy() { 
+    window.removeEventListener('resize', this.onResize); 
+  },
+
+  methods: {  
+    onResize() {
+      this.windowWidth = window.innerWidth
+    }
   }
 
 }
@@ -40,5 +66,8 @@ export default {
 </script>
 
 <style>
-
+.carousel__prev--in-active,
+.carousel__next--in-active {
+  display: none;
+}
 </style>
