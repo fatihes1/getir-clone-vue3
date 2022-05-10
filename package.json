@@ -8,6 +8,7 @@
     "watch": "npx tailwindcss -i ./src/assets/input.css -o ./src/assets/output.css --watch"
   },
   "dependencies": {
+    "@dafcoe/vue-collapsible-panel": "^0.2.0",
     "@vue/cli-plugin-eslint": "^5.0.4",
     "vue": "^3.2.33",
     "vue-country-flag-next": "^2.3.2",

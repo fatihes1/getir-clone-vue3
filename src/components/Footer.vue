@@ -1,19 +1,19 @@
 <template>
   <div class="bg-white mt-10">
-    <div class="container mx-auto">
-      <div class="grid grid-cols-4 pt-10">
+    <div class="container mx-auto px-4 md:px-0">
+      <div class="grid gap-y-6 md:grid-cols-2 lg:grid-cols-4 pt-4 md:pt-10">
         <section>
           <nav class="grid gap-y-4">
             <h6 class="text-lg text-primary-brand-color">
               Getir'i indirin!
             </h6>
-            <a href="https://itunes.apple.com/app/id995280265" class="transition-all transform hover:scale-105">
+            <a href="https://itunes.apple.com/app/id995280265" class="md:transition-all md:transform md:hover:scale-105">
               <img src="https://getir.com/_next/static/images/appstore-tr-141ed939fceebdcee96af608fa293b31.svg" alt="">
             </a>
-            <a href="https://getir.com/_next/static/images/googleplay-tr-6b0c941b7d1a65d781fb4b644498be75.svg" class="transition-all transform hover:scale-105">
+            <a href="https://getir.com/_next/static/images/googleplay-tr-6b0c941b7d1a65d781fb4b644498be75.svg" class="md:transition-all md:transform md:hover:scale-105">
               <img src="https://getir.com/_next/static/images/googleplay-tr-6b0c941b7d1a65d781fb4b644498be75.svg" alt="">
             </a>
-            <a href="https://appgallery7.huawei.com/#/app/C100954039" class="transition-all transform hover:scale-105">
+            <a href="https://appgallery7.huawei.com/#/app/C100954039" class="md:transition-all md:transform md:hover:scale-105">
               <img src="https://getir.com/_next/static/images/huawei-appgallery-tr-4b890fa3167bc62f9069edaf45aa7f30.svg" alt="">
             </a>
           </nav>
@@ -22,7 +22,7 @@
           <Menu :data=data  />
         </section>
       </div>
-      <div class="flex justify-between items-center border-t border-gray-200 mt-6 py-6">
+      <div class="flex flex-col md:flex-row gap-y-4 justify-between items-center border-t border-gray-200 mt-6 py-6">
         <div class="text-xs text-gray-700 flex gap-x-3">
           <span>&copy; 2022 Getir</span>
           <span>•</span>
