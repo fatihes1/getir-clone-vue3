@@ -32,7 +32,7 @@ export default {
       },
       breakpoints: {
       
-      400 : {
+      100 : {
         itemsToShow: 1,
         snapAlign: 'center',
       },
