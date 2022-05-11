@@ -5,6 +5,7 @@
 ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 [CANLI DEMO İÇİN TIKLAYINIZ! ](https://getir-clone-fatihes.netlify.app/)
 
+
 [Click here](EN_README.md) for English README.
 
 ![getir](https://user-images.githubusercontent.com/54971670/167903506-7db42e46-7c9f-4a73-a376-16c3bb14f53b.PNG)
