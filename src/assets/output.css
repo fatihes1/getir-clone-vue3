@@ -620,8 +620,12 @@ html, body {
   height: 2.25rem;
 }
 
-.h-4{
-  height: 1rem;
+.h-3{
+  height: 0.75rem;
+}
+
+.h-2{
+  height: 0.5rem;
 }
 
 .h-16{
@@ -632,8 +636,8 @@ html, body {
   height: 1.5rem;
 }
 
-.h-10{
-  height: 2.5rem;
+.h-8{
+  height: 2rem;
 }
 
 .h-auto{
@@ -660,20 +664,8 @@ html, body {
   height: 150px;
 }
 
-.h-8{
-  height: 2rem;
-}
-
 .h-32{
   height: 8rem;
-}
-
-.h-2{
-  height: 0.5rem;
-}
-
-.h-3{
-  height: 0.75rem;
 }
 
 .w-full{
@@ -688,28 +680,28 @@ html, body {
   width: 4rem;
 }
 
-.w-8{
-  width: 2rem;
+.w-6{
+  width: 1.5rem;
 }
 
 .w-28{
   width: 7rem;
 }
 
-.w-20{
-  width: 5rem;
+.w-10{
+  width: 2.5rem;
 }
 
 .w-24{
   width: 6rem;
 }
 
-.w-14{
-  width: 3.5rem;
+.w-7{
+  width: 1.75rem;
 }
 
-.w-\[72\]{
-  width: 72;
+.w-8{
+  width: 2rem;
 }
 
 .w-12{
@@ -722,26 +714,6 @@ html, body {
 
 .w-32{
   width: 8rem;
-}
-
-.w-4{
-  width: 1rem;
-}
-
-.w-10{
-  width: 2.5rem;
-}
-
-.w-5{
-  width: 1.25rem;
-}
-
-.w-6{
-  width: 1.5rem;
-}
-
-.w-7{
-  width: 1.75rem;
 }
 
 .flex-1{
@@ -1302,6 +1274,10 @@ html, body {
     width: 72;
   }
 
+  .sm\:w-16{
+    width: 4rem;
+  }
+
   .sm\:grid-cols-4{
     grid-template-columns: repeat(4, minmax(0, 1fr));
   }
@@ -1407,16 +1383,8 @@ html, body {
     width: 2.25rem;
   }
 
-  .md\:w-20{
-    width: 5rem;
-  }
-
   .md\:w-\[400px\]{
     width: 400px;
-  }
-
-  .md\:w-28{
-    width: 7rem;
   }
 
   .md\:-translate-x-1\/2{
@@ -1563,10 +1531,6 @@ html, body {
 
   .lg\:inline{
     display: inline;
-  }
-
-  .lg\:w-28{
-    width: 7rem;
   }
 
   .lg\:grid-cols-6{
