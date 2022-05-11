@@ -1,5 +1,5 @@
 <template>
-    <div class="md:container mx-auto flex flex-col md:flex-row justify-between items-center bg-primary-brand-color bg-mobile-app md:rounded-md lg:rounded-lg mt-7 text-white">
+    <div class="lg:container mx-auto flex flex-col md:flex-row justify-between items-center bg-primary-brand-color bg-mobile-app   lg:rounded-lg mt-7 text-white">
        <div class="flex flex-col gap-y-3 p-10 text-center md:text-left">
           <h3 class="text-2xl font-bold tracking-tight">Getir'i indirin!</h3>
           <p class="font-semibold">İstediğiniz ürünleri dakikalar içinde kapınıza <br /> getirelim.</p>

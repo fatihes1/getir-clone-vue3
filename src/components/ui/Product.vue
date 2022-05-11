@@ -6,7 +6,7 @@
     <img :src=product.image alt=product.title class="w-32 h-32 rounded-md" />
     <div class="text-sm font-semibold text-brand-color">{{product.price}}</div>
     <div class="text-sm font-semibold text-gray-900">{{product.title}}</div>
-    <div class="text-sm font-semibold text-gray-500">{{product.alt}}</div>
+    <div class="text-sm text-gray-500">{{product.alt}}</div>
 </div>
 </template>
 

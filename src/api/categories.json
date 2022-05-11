@@ -2,52 +2,52 @@
     {
       "id": 1,
       "title": "Yeni Ürünler",
-      "image": "http://cdn.getir.com/cat/5697c78dc181490f00c99fea_f7ef7ccb-f3a4-4388-b787-232967c16320.jpeg"
+      "image": "https://market-product-images-cdn.getirapi.com/category/e8b802e6-7987-486f-bf53-a9720c698a98.jpg"
     },
     {
       "id": 2,
-      "title": "İndirimler",
-      "image": "http://cdn.getir.com/cat/5fd8c58f3bdc2389a56e0fb0_3322c10f-2eed-4ce9-ab5a-90db5ce067f2.jpeg"
-    },
-    {
-      "id": 3,
       "title": "Su & İçecek",
       "image": "http://cdn.getir.com/cat/551430043427d5010a3a5c5e_1619242669958_1619242670038.jpeg"
     },
     {
-      "id": 4,
+      "id": 3,
       "title": "Meyve & Sebze",
       "image": "http://cdn.getir.com/cat/5928113e616cab00041ec6de_1619242870968_1619242871055.jpeg"
     },
     {
-      "id": 5,
+      "id": 4,
       "title": "Fırından",
       "image": "http://cdn.getir.com/cat/566eeb85f9facb0f00b1cb16_1619242817768_1619242817849.jpeg"
     },
     {
-      "id": 6,
+      "id": 5,
       "title": "Temel Gıda",
       "image": "http://cdn.getir.com/cat/56dfcfba86004203000a870d_1619242834654_1619242834734.jpeg"
     },
     {
-      "id": 7,
+      "id": 6,
       "title": "Atıştırmalık",
       "image": "http://cdn.getir.com/cat/56dfe03cf82055030022cdc0_1619242841966_1619242842053.jpeg"
     },
     {
-      "id": 8,
+      "id": 7,
       "title": "Dondurma",
       "image": "http://cdn.getir.com/cat/55bca8484dcda90c00e3aa80_1619242741382_1619242741482.jpeg"
     },
     {
+      "id": 8,
+      "title": "Süt Ürünleri",
+      "image": "https://market-product-images-cdn.getirapi.com/category/afee33f9-93fe-4b87-8094-6e5c7f13c064.jpeg"
+    },
+    {
       "id": 9,
-      "title": "Yiyecek",
-      "image": "http://cdn.getir.com/cat/551430043427d5010a3a5c5d_1619242660025_1619242660107.jpeg"
+      "title": "Kahvaltılık",
+      "image": "http://cdn.getir.com/cat/56dfed05ab747f03008d9379_1619242850313_1619242850394.jpeg"
     },
     {
       "id": 10,
-      "title": "Süt & Kahvaltı",
-      "image": "http://cdn.getir.com/cat/56dfed05ab747f03008d9379_1619242850313_1619242850394.jpeg"
+      "title": "Yiyecek",
+      "image": "http://cdn.getir.com/cat/551430043427d5010a3a5c5d_1619242660025_1619242660107.jpeg"
     },
     {
       "id": 11,
@@ -88,10 +88,5 @@
       "id": 18,
       "title": "Cinsel Sağlık",
       "image": "http://cdn.getir.com/cat/559c07b093be370c0063dd29_1619242727735_1619242727816.jpeg"
-    },
-    {
-      "id": 19,
-      "title": "Giyim",
-      "image": "http://cdn.getir.com/cat/551430043427d5010a3a5c5f_1619242679723_1619242679822.jpeg"
     }
   ]
