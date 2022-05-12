@@ -47,10 +47,15 @@ Sıfır çalışma zamanı ile hızlı, esnek ve güvenilirdir.
 -  [:link:](https://ismail9k.github.io/vue3-carousel/) Vue3 Carousel
 
 ## :floppy_disk: Proje İçin
+
 Projeyi klonlamak için : `git clone https://github.com/fatihes1/getir-clone-vue3.git`
+
 Klonlamadan sonra proje dizinine geçin : `cd getir-clone-vue3` 
+
 Gereklilikleri indirmek için : `npm install`
+
 Vite çalıştırmak için : `npm run dev`
+
 Tailwindcss çalıştırmak için `npm run watch` , komutlarını kullanınız.
 
 ## :bust_in_silhouette: İletişime Geçmek İçin
