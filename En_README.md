@@ -44,10 +44,15 @@ It's fast, flexible, and reliable — with zero-runtime.
 -  [:link:](https://ismail9k.github.io/vue3-carousel/) Vue3 Carousel
 
 ## :floppy_disk: For Project
+
 Clone with this URL : `git clone https://github.com/fatihes1/getir-clone-vue3.git`
+
 Switch to project directory after cloning : `cd getir-clone-vue3` 
+
 To download the requirements : `npm install`
+
 To run Vite: `npm run dev`
+
 To run Tailwindcss : `npm run watch` , komutlarını kullanınız.
 
 ## :bust_in_silhouette: Contact With Me
